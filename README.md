@@ -100,34 +100,35 @@ DATASET:
 
 ![1](https://github.com/Pavithraramasaamy/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/118596964/06099a9a-27fb-423c-9623-9e98b88c8f2b)
 
-Plt.profitprediction:
+## 1. Profit prediction graph 
 
 ![2](https://github.com/Pavithraramasaamy/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/118596964/1cee0eb9-c7ea-4194-957f-75c972e0c590)
 
-computeCost:
+## 2. Compute cost value 
 
 ![3](https://github.com/Pavithraramasaamy/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/118596964/db9d7b4f-b3af-48b7-98c3-0b26f43e500a)
 
-
+## 3. h(x) value 
 
 
 ![4](https://github.com/Pavithraramasaamy/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/118596964/8ee38a81-b265-474a-ac0d-f669fddc1b69)
 
 
-Cost function using Gradient Descent:
+## Cost function using Gradient Descent:
 
 ![5](https://github.com/Pavithraramasaamy/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/118596964/62b3d147-b378-4772-9f32-a5abd8c43e96)
 
-Profit Prediction:
+## Profit Prediction:
 
 ![6](https://github.com/Pavithraramasaamy/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/118596964/771a2858-79a6-430c-a1e8-d12b11763176)
 
 
-predict1:
+## 6. Profit for the population of 35000
+
 
 ![7](https://github.com/Pavithraramasaamy/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/118596964/f658156b-ba64-4232-bf2c-0654dd47c9e8)
 
-predict2:
+## 7. Profit for the population of 70000
 
 ![8](https://github.com/Pavithraramasaamy/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/118596964/c1c43a75-869b-421c-af72-f6b7e963ac93)
 
