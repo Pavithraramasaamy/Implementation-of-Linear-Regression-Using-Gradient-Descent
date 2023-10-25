@@ -114,11 +114,11 @@ DATASET:
 ![4](https://github.com/Pavithraramasaamy/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/118596964/8ee38a81-b265-474a-ac0d-f669fddc1b69)
 
 
-## Cost function using Gradient Descent:
+## 4.Cost function using Gradient Descent:
 
 ![5](https://github.com/Pavithraramasaamy/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/118596964/62b3d147-b378-4772-9f32-a5abd8c43e96)
 
-## Profit Prediction:
+## 5.Profit Prediction:
 
 ![6](https://github.com/Pavithraramasaamy/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/118596964/771a2858-79a6-430c-a1e8-d12b11763176)
 
